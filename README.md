@@ -1,6 +1,5 @@
-## crud-model一些个人习惯封装
+## 为了方便自己，封装一些crud model
 ## crud基本model
-一些crud以及分页都已封装，sql除外。
 - BaseEntity
 - BaseMapper
 - BaseService
@@ -12,7 +11,7 @@
 ### 工具类
 - DateUtil
 - IdGenUtil：雪花算法以及UUID
-- PageUtil：
+- PageUtil：分页
 
 ### 封装返回结果
 - ResultVo
